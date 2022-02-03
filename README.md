@@ -6,9 +6,10 @@ This project aims to rework [this PowerBI dashboard](https://app.powerbi.com/vie
 
 Data are collected monthly from this [public repository](https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice)
 
-Maps related to 
+Maps related to:
  - Lower Layer Super Output Area (LSOA)
  - Clinical Commissioning Group (CCG)
  - Sustainability and Trasformation Partnership (STP) 
+
 can be found in [this R package]().
 
